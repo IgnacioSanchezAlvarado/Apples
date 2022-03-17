@@ -1,2 +1,2 @@
 # Apples
-This is my first HTML page!
+My first HTML page!
